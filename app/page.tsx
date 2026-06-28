@@ -6,7 +6,7 @@ export default function Home() {
       </h1>
 
       <p className="mt-6 text-xl text-gray-600 max-w-2xl">
-        Luxury Pet Daycare & Boarding where every pet is treated like family.
+        Luxury Pet Daycare & Boarding - Now Live!
       </p>
 
       <button className="mt-10 bg-emerald-600 hover:bg-emerald-700 text-white px-8 py-4 rounded-xl text-lg font-semibold">
